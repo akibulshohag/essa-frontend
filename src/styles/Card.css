@@ -181,3 +181,8 @@
     transform: translateY(0px);
     transition-delay: .5s;
 } 
+.container1 .card1:hover .contentBx1 a {
+    opacity: 1;
+    transform: translateY(0px);
+    transition-delay: .5s;
+} 
